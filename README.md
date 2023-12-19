@@ -1,2 +1,2 @@
 # Portfolio-Projects
-Projects showcasing SQL, Python, Excel, and Tableau skills
+Projects showcasing SQL, Python, and Excel skills
