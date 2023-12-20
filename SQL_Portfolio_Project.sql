@@ -167,3 +167,10 @@ where d.continent is not null
 
 select * from
 PercentagePeopleVaccinated
+
+
+--- Other questions to investigate:
+-- How effective are vaccines? What do we define as effective?
+-- Case fatality rate: number of confirmed deaths divided by the number of confirmed cases x 100
+-- crude mortality rate = the number of deaths from the disease divided by the total population x 100
+-- infection fatality rate = the number of deaths divided by the total number of cases x 100
